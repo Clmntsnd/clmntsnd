@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Clement Senand</h1>
+<h1 align="center">Hello there, I'm Clement Senand 👋</h1>
 
 I'm a dedicated and passionate student at [42 Quebec](https://42quebec.com/en/home/). I'm currently enrolled in the renowned 42 program, which focuses on project-based learning and developing practical coding skills.
 
