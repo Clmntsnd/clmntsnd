@@ -65,7 +65,7 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 
 ## 📊 My Stats
 <div align=center>
-  <a href="[![Clmntsnd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Clmntsnd&show_icons=true&theme=onedark#gh-dark-mode-only)(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)">
+  <a href="https://github.com/Clmntsnd/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Clmntsnd&show_icons=true&theme=onedark#gh-dark-mode-only)"/>
   </a>
   <a href="https://github.com/Clmntsnd/convoychat">
