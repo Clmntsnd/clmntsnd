@@ -32,6 +32,8 @@ I have a strong interest in software development and a desire to explore various
   <li>Philosophers</li>
 </ul>
 
+&nbsp;
+
 ## 🌱 Personal Project[s]
 - Learning HTML and CSS (through [The Odin Project](https://www.theodinproject.com/))
 
@@ -44,10 +46,9 @@ I have a strong interest in software development and a desire to explore various
       <img alt="minishell Logo" src="https://github.com/Clmntsnd/42-project-badges/blob/main/badges/minishelle.png">
     </a>
   
-  <h3>Validated<h3>
+---
   
   <a href="https://github.com/Clmntsnd/06-Pipex">![42 Badge](https://github.com/Clmntsnd/42-project-badges/blob/main/badges/pipexe.png)</a>
-
   <a href="https://github.com/Clmntsnd/05-Push_swap">![42 Badge](https://github.com/Clmntsnd/42-project-badges/blob/main/badges/push_swape.png)</a>
   <a href="https://github.com/Clmntsnd/04-Fractol">![42 Badge](https://github.com/Clmntsnd/42-project-badges/blob/main/badges/fract-ole.png)</a>
 
@@ -63,10 +64,10 @@ Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badg
 
 ## 📊 My Stats
 <div align=center>
-<a href="[![Clmntsnd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Clmntsnd&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Clmntsnd&show_icons=true&theme=dark#gh-dark-mode-only)"/>
-</a>
-<a href="https://github.com/Clmntsnd/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Clmntsnd&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only)" />
-</a>
+  <a href="[![Clmntsnd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Clmntsnd&show_icons=true&theme=dark#gh-dark-mode-only)(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Clmntsnd&show_icons=true&theme=dark#gh-dark-mode-only)"/>
+  </a>
+  <a href="https://github.com/Clmntsnd/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Clmntsnd&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only)" />
+  </a>
 </div>
