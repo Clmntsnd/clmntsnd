@@ -10,6 +10,7 @@ I have a strong interest in software development and a desire to explore various
 
 </div>
 
+&nbsp;
 
 ## 📫 Contact
 - 🗣 : 🇫🇷🇺🇸
@@ -21,25 +22,51 @@ I have a strong interest in software development and a desire to explore various
     <img width="600" alt="Linkedin_banner.png" src="https://github.com/Clmntsnd/clmntsnd/blob/main/assets/Linkedin_banner.png">
   </a>
 </div>
- 
-## 👨‍💻 I’m currently working on
-### At 42
-- Philosophers
-- Last achieved project: [Miniꞩhell](https://github.com/Clmntsnd/Minishell)
 
-### Personal Project[s] 🌱
+&nbsp;
+
+<h2>
+<img src="https://img2.gratispng.com/20180420/osw/kisspng-0-school-college-42-silicon-valley-university-5ad9e24250ea87.8161795615242286743314.jpg" alt="42" width="25" height="25"/> Ongoing project
+</h2>
+<ul>
+  <li>Philosophers</li>
+</ul>
+
+## 🌱 Personal Project[s]
 - Learning HTML and CSS (through [The Odin Project](https://www.theodinproject.com/))
 
-<!--
-**Clmntsnd/clmntsnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+## 🎯 Projects done at 42
+<div align=center>
+  <h3>Last achieved</h3>
+    <a href="https://github.com/Clmntsnd/Minishell">
+      <img alt="minishell Logo" src="https://github.com/Clmntsnd/42-project-badges/blob/main/badges/minishelle.png">
+    </a>
+  
+  <h3>Validated<h3>
+  
+  <a href="https://github.com/Clmntsnd/06-Pipex">![42 Badge](https://github.com/Clmntsnd/42-project-badges/blob/main/badges/pipexe.png)</a>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/Clmntsnd/05-Push_swap">![42 Badge](https://github.com/Clmntsnd/42-project-badges/blob/main/badges/push_swape.png)</a>
+  <a href="https://github.com/Clmntsnd/04-Fractol">![42 Badge](https://github.com/Clmntsnd/42-project-badges/blob/main/badges/fract-ole.png)</a>
+
+  <a href="https://github.com/Clmntsnd/02-Get-Next-Line">![42 Badge](https://github.com/Clmntsnd/42-project-badges/blob/main/badges/get_next_linee.png)</a>
+  <a href="">![42 Badge](https://github.com/Clmntsnd/42-project-badges/blob/main/badges/born2beroote.png)</a>
+  <a href="https://github.com/Clmntsnd/01-ft_printf">![42 Badge](https://github.com/Clmntsnd/42-project-badges/blob/main/badges/ft_printfe.png)</a>
+  <a href="https://github.com/Clmntsnd/00-Libft">![42 Badge](https://github.com/Clmntsnd/42-project-badges/blob/main/badges/libfte.png)</a>
+
+Cheers to [Byaliego](https://github.com/byaliego/42-project-badges) for the badges ! 🙌
+</div>
+
+&nbsp;
+
+## 📊 My Stats
+<div align=center>
+<a href="[![Clmntsnd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Clmntsnd&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Clmntsnd&show_icons=true&theme=dark#gh-dark-mode-only)"/>
+</a>
+<a href="https://github.com/Clmntsnd/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Clmntsnd&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only)" />
+</a>
+</div>
