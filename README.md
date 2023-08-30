@@ -19,7 +19,7 @@ I have a strong interest in software development and a desire to explore various
 <div align=center>
 
   <a href="https://www.linkedin.com/in/clement-senand/">
-    <img width="600" alt="Linkedin_banner.png" src="https://github.com/Clmntsnd/clmntsnd/blob/main/assets/Linkedin_banner.png">
+    <img width="600" alt="Linkedin_banner.png" src="https://github.com/Clmntsnd/clmntsnd/blob/main/assets/Linkedin_banner2.png">
   </a>
 </div>
 
