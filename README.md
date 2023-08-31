@@ -5,9 +5,8 @@ I'm a dedicated and passionate student at [42 Quebec](https://42quebec.com/en/ho
 I have a strong interest in software development and a desire to explore various domains of computer science. Through my journey at 42, I've gained hands-on experience in problem-solving, algorithm design, and collaborating with fellow students on exciting projects.
 
 <div align=center>
-  
-  [![csenand's 42 stats](https://badge42.vercel.app/api/v2/cljq4rr20001608l1r3brjcmj/stats?cursusId=21&coalitionId=243)](https://github.com/JaeSeoKim/badge42)
 
+<!-- [![csenand's 42 stats](https://badge42.vercel.app/api/v2/cljq4rr20001608l1r3brjcmj/stats?cursusId=21&coalitionId=243)](https://github.com/JaeSeoKim/badge42) -->
 </div>
 
 &nbsp;
