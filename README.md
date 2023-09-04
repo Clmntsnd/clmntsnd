@@ -33,17 +33,19 @@ I have a strong interest in software development and a desire to explore various
 <img src="https://img2.gratispng.com/20180420/osw/kisspng-0-school-college-42-silicon-valley-university-5ad9e24250ea87.8161795615242286743314.jpg" alt="42" width="25" height="25"/> Ongoing project
 </h2>
 <div align=center>
-    <a href="https://github.com/Clmntsnd/Net_Practice"><img alt="Net Practice Logo" src="https://github.com/Clmntsnd/42-project-badges/blob/main/badges/netpracticee.png"></a>
+  <a href="https://github.com/Clmntsnd/Cub3D"><img alt="Net Practice Logo" src="https://github.com/Clmntsnd/42-project-badges/blob/main/badges/cub3de.png"></a>
 </div>
 &nbsp;
 
 ## 🎯 Projects done at 42
 <div align=center>
   <h3>Last achieved</h3>
-    <a href="https://github.com/Clmntsnd/philo"><img alt="philosophers Logo" src="https://github.com/Clmntsnd/42-project-badges/blob/main/badges/philosopherse.png"></a>
+    <a href="https://github.com/Clmntsnd/Net_Practice"><img alt="Net Practice Logo" src="https://github.com/Clmntsnd/42-project-badges/blob/main/badges/netpracticee.png"></a>
   
 ---
   
+  
+  <a href="https://github.com/Clmntsnd/philo"><img alt="philosophers Logo" src="https://github.com/Clmntsnd/42-project-badges/blob/main/badges/philosopherse.png"></a>
   <a href="https://github.com/Clmntsnd/Minishell"><img alt="minishell Logo" src="https://github.com/Clmntsnd/42-project-badges/blob/main/badges/minishelle.png"></a>
   
   <a href="https://github.com/Clmntsnd/06-Pipex">![42 Badge](https://github.com/Clmntsnd/42-project-badges/blob/main/badges/pipexe.png)</a>
