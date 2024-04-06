@@ -29,7 +29,7 @@ I have a strong interest in software development and a desire to explore various
 </h2>
 <div align=center>
     <a href="https://github.com/Dot-kpp/ft_transcendence"><img alt="ft_transcendence logo" src="https://github.com/Clmntsnd/42-project-badges/blob/main/badges/ft_transcendencee.png"></a>
-    <a href="https://github.com/Dot-kpp/Inception"><img alt="ft_transcendence logo" src="https://github.com/Clmntsnd/42-project-badges/blob/main/badges/inceptione.png"></a>
+    <a href="https://github.com/Clmntsnd/Inception"><img alt="ft_transcendence logo" src="https://github.com/Clmntsnd/42-project-badges/blob/main/badges/inceptione.png"></a>
 
 </div>
 &nbsp;
